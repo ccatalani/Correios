@@ -1,0 +1,10 @@
+# encoding: UTF-8
+source "http://rubygems.org"
+
+# principais
+gem 'bundler'
+gem 'cucumber'
+gem 'rspec'
+gem 'httparty'
+gem 'activesupport'
+gem 'builder'
